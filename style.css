@@ -12,10 +12,6 @@ body {
     align-items: center;
 }
 
-embed {
-    position: absolute;
-}
-
 h1 {
     font-family: 'Henny Penny', cursive;
     color: white;
